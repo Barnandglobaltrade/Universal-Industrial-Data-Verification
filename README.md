@@ -29,7 +29,7 @@ UIDVP utilizes cryptographic hashing to anchor technical documents to the blockc
 ## Contribute
 UIDVP is built as a public good under the **MIT/Apache 2.0 license**. We welcome contributions from developers, industrial engineers, and blockchain enthusiasts. 
 * Join our journey to make global industrial data transparent and immutable.
-* Check out our [Whitepaper](https://link-ke-pdf-kamu) for detailed technical specifications.
+* Check out our [Whitepaper](https://github.com/Barnandglobaltrade/Universal-Industrial-Data-Verification/blob/main/Whitepaper_UIDVP_Project.pdf) for detailed technical specifications.
 
 ## Contact
 For collaborations or inquiries, reach out through our GitHub discussions or follow our progress on Gitcoin.
